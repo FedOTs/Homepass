@@ -1,0 +1,12 @@
+{
+    "database":{
+        "host": "172.16.1.1",
+        "user": "web-api",
+        "password": "q1w2e3r4.",
+        "dbname" : "kvartplata"
+    },
+    "telegram": {
+        "token":"5197063058:AAHsLoxmRCt8MpmiIaoVkG1BZSZ-ACYZeJw",
+        "webhook":"https://www.rkc-jkh.ru/api_telegramm/"
+    }
+}

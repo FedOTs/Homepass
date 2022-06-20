@@ -1,0 +1,12 @@
+{
+    "database":{
+        "host": "host",
+        "user": "user",
+        "password": "password",
+        "dbname" : "dbname"
+    },
+    "telegram": {
+        "token":"token",
+        "webhook":"webhook"
+    }
+}
